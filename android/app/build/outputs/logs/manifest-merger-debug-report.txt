@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/73ec87e8fdd2e535c97aebb8ab597781/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4bce6b376b67ef29e1daa75ebb2cea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be93069a80084616c2b1ddec474b4578/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e2f22b4b89fd7f0af451832ff2e0298/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5be333fb219f5846265c0673c8576fda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f9ac6993e83d64914ea3ac186d843527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfd756cd970024c02e0072a801b330dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/38180e106246262f7bd9cf2609f8682b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7c31732af6fb6aa40e785dbdac5a0087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e63a0f9f56004f467576d3e5d1a4363/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/383aaac1a8571b3acaa0ac603f4bfa38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87356f9f8b81c3857f4fbc4bb987a129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0a2132ea5b4899fe1640c02c6e04bfdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7bbfe75053db423465723eb7b25c78ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cfc71388a19c53759590adc1e9ab2e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cb425bfb3ade75073af7910da056ac4d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f4a250f1a796a3e5a73e20e1dc10a812/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a24cb624863b405b62d8dea8654b32d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d3023ec10bb2524693dfb4a6459c92b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1bf3f600764692f4db7127b9a3d51d8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b3c1d60fd6b7ed75a2b6fd265e9e8135/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/326a5d9df7e140180c5cb6b9609d37b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f51344bbf02f1913e0c1344d1b4ecc01/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b7e3b07641634156bf8774f7d27a6b2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae9267dc4b2bdcdb2990d6f81688bee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e7ebb7e8a140bbc42d61834fa288260/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ab2fded49b144d7aed0a8b91ef2893b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/975e89e167b2b5841c3b489a71a76202/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e2a19dba23ac323e5db3019273848fcf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9ad9c32541b5d1866386445a6d9cba92/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9f03befa3e88fb4c650e11c9454f2b9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/bba7967534ad1876a10330a84d60532b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d33ed7c45e9f60e42eb10db6fc6d1f55/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/73ec87e8fdd2e535c97aebb8ab597781/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/73ec87e8fdd2e535c97aebb8ab597781/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cb425bfb3ade75073af7910da056ac4d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cb425bfb3ade75073af7910da056ac4d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/bba7967534ad1876a10330a84d60532b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/bba7967534ad1876a10330a84d60532b/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.uber.MainActivity
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/73ec87e8fdd2e535c97aebb8ab597781/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/73ec87e8fdd2e535c97aebb8ab597781/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4bce6b376b67ef29e1daa75ebb2cea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ef4bce6b376b67ef29e1daa75ebb2cea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be93069a80084616c2b1ddec474b4578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/be93069a80084616c2b1ddec474b4578/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e2f22b4b89fd7f0af451832ff2e0298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e2f22b4b89fd7f0af451832ff2e0298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5be333fb219f5846265c0673c8576fda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5be333fb219f5846265c0673c8576fda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f9ac6993e83d64914ea3ac186d843527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f9ac6993e83d64914ea3ac186d843527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfd756cd970024c02e0072a801b330dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfd756cd970024c02e0072a801b330dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/38180e106246262f7bd9cf2609f8682b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/38180e106246262f7bd9cf2609f8682b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7c31732af6fb6aa40e785dbdac5a0087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7c31732af6fb6aa40e785dbdac5a0087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e63a0f9f56004f467576d3e5d1a4363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e63a0f9f56004f467576d3e5d1a4363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/383aaac1a8571b3acaa0ac603f4bfa38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/383aaac1a8571b3acaa0ac603f4bfa38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87356f9f8b81c3857f4fbc4bb987a129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/87356f9f8b81c3857f4fbc4bb987a129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0a2132ea5b4899fe1640c02c6e04bfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0a2132ea5b4899fe1640c02c6e04bfdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7bbfe75053db423465723eb7b25c78ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7bbfe75053db423465723eb7b25c78ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cfc71388a19c53759590adc1e9ab2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cfc71388a19c53759590adc1e9ab2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0a802cec96d5a10774e403cb6ba7818e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cb425bfb3ade75073af7910da056ac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cb425bfb3ade75073af7910da056ac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f4a250f1a796a3e5a73e20e1dc10a812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/f4a250f1a796a3e5a73e20e1dc10a812/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a24cb624863b405b62d8dea8654b32d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a24cb624863b405b62d8dea8654b32d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d3023ec10bb2524693dfb4a6459c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d3023ec10bb2524693dfb4a6459c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1bf3f600764692f4db7127b9a3d51d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1bf3f600764692f4db7127b9a3d51d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b3c1d60fd6b7ed75a2b6fd265e9e8135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b3c1d60fd6b7ed75a2b6fd265e9e8135/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/326a5d9df7e140180c5cb6b9609d37b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/326a5d9df7e140180c5cb6b9609d37b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f51344bbf02f1913e0c1344d1b4ecc01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f51344bbf02f1913e0c1344d1b4ecc01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b7e3b07641634156bf8774f7d27a6b2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b7e3b07641634156bf8774f7d27a6b2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae9267dc4b2bdcdb2990d6f81688bee1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae9267dc4b2bdcdb2990d6f81688bee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e7ebb7e8a140bbc42d61834fa288260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9e7ebb7e8a140bbc42d61834fa288260/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ab2fded49b144d7aed0a8b91ef2893b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ab2fded49b144d7aed0a8b91ef2893b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/975e89e167b2b5841c3b489a71a76202/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/975e89e167b2b5841c3b489a71a76202/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e2a19dba23ac323e5db3019273848fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e2a19dba23ac323e5db3019273848fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9ad9c32541b5d1866386445a6d9cba92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9ad9c32541b5d1866386445a6d9cba92/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9f03befa3e88fb4c650e11c9454f2b9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/9f03befa3e88fb4c650e11c9454f2b9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/bba7967534ad1876a10330a84d60532b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/bba7967534ad1876a10330a84d60532b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d33ed7c45e9f60e42eb10db6fc6d1f55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/_lemos/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/d33ed7c45e9f60e42eb10db6fc6d1f55/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/_lemos/Desktop/Rocketseat/rockeseatuber/android/app/src/debug/AndroidManifest.xml:5:22-75
