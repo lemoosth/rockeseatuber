@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/React/Base/RCTAssert.h

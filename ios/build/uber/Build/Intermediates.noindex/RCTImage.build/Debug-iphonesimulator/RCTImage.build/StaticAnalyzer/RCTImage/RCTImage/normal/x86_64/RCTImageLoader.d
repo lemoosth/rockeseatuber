@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/Libraries/Image/RCTImageUtils.h

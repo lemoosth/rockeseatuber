@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/_lemos/Desktop/Rocketseat/rockeseatuber/ios/build/uber/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
