@@ -6,38 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>14DB22CC-F22E-4BEA-88BB-74F0B896EDD7</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>14DB22CC-F22E-4BEA-88BB-74F0B896EDD7.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>uber project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>uber</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project uber with scheme uber and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>580269104.885131</real>
-			<key>timeStoppedRecording</key>
-			<real>580270567.81834304</real>
-			<key>title</key>
-			<string>Building project uber with scheme uber and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>14DB22CC-F22E-4BEA-88BB-74F0B896EDD7</string>
-		</dict>
 		<key>37963C3B-5355-4860-BDF2-F89EF66F06AD</key>
 		<dict>
 			<key>className</key>
