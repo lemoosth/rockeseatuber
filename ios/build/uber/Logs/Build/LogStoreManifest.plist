@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>37963C3B-5355-4860-BDF2-F89EF66F06AD</key>
+		<key>CFE33FF9-4491-4F33-8FC6-507E60A37390</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>37963C3B-5355-4860-BDF2-F89EF66F06AD.xcactivitylog</string>
+			<string>CFE33FF9-4491-4F33-8FC6-507E60A37390.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,13 +30,45 @@
 			<key>signature</key>
 			<string>Building project uber with scheme uber and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>580271550.47245598</real>
+			<real>580419622.77191603</real>
 			<key>timeStoppedRecording</key>
-			<real>580271626.48334599</real>
+			<real>580419693.17463505</real>
 			<key>title</key>
 			<string>Building project uber with scheme uber and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>37963C3B-5355-4860-BDF2-F89EF66F06AD</string>
+			<string>CFE33FF9-4491-4F33-8FC6-507E60A37390</string>
+		</dict>
+		<key>EB26A965-93ED-47E9-A1C8-5200801B1406</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB26A965-93ED-47E9-A1C8-5200801B1406.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>uber project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>uber</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project uber with scheme uber and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580432280.52066398</real>
+			<key>timeStoppedRecording</key>
+			<real>580432287.36186099</real>
+			<key>title</key>
+			<string>Building project uber with scheme uber and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>EB26A965-93ED-47E9-A1C8-5200801B1406</string>
 		</dict>
 	</dict>
 </dict>

@@ -13,22 +13,20 @@ export default class Map extends Component {
         destination: null,
     }
 
-    componentDidMount() {
+    async componentDidMount() {
         navigator.geolocation.getCurrentPosition(
-            async ({ coords: { latitude, longitude } }) => {
+            ({ coords: { latitude, longitude } }) => {
                 // const response = await GeoCoder.from({ latitude, longitude });
                 // const address = response.results[0].formatted_address;
                 // const location = address.substring(0, address.indexOf(","));
                 this.setState({
-                    // location,
                     region: {
                         latitude,
                         longitude,
                         latitudeDelta: 0.0143,
                         longitudeDelta: 0.0134
                     }
-                }
-                )
+                });
             }, //sucesso
             () => { }, //erro
             {
@@ -63,13 +61,13 @@ export default class Map extends Component {
                 >
                     { destination && (
                         <Directions
-                            destination={destination}
                             origin={region}
+                            destination={destination}
                             onReady={() => {
 
                             }}
                         />
-                    ) }
+                    )}
                 </MapView>
 
                 <Search onLocationSelected={this.handleLocationSelected} />
